@@ -13,7 +13,7 @@
 
 ### Face Representation: The extracted features are converted into a mathematical representation or a feature vector. This feature vector is a compact representation of the facial features ### and is used for comparison and identification.
 
-### Face Matching: In the final step, the feature vector is compared with the feature vectors of the individuals in the database to find a match. This involves computing the similarity score ### between the feature vectors and selecting the one with the highest score.
+### Face Matching: In the final step, the feature vector is compared with the feature vectors of the individuals in the database to find a match. This involves computing the similarity score between the feature vectors and selecting the one with the highest score.
 
 ## Procedure :
 ### 1. Setup
