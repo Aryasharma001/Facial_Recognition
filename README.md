@@ -5,7 +5,7 @@
 ### Libraries Used : Tensorflow , opencv , keras , matplotlib ,os, CVZone , Sklearn . 
 ## Process or methodology : 
 
-### Face Detection: The first step in facial recognition is detecting the face in an image or video frame. Face detection algorithms use pattern recognition techniques to locate faces in an ### image.
+### Face Detection: The first step in facial recognition is detecting the face in an image or video frame. Face detection algorithms use pattern recognition techniques to locate faces in an image.
 
 ### Face Alignment: Once the face is detected, the next step is to align the face to a standard position. This involves locating the facial landmarks such as eyes, nose, and mouth and ### ### rotating and scaling the face to a standard orientation.
 
